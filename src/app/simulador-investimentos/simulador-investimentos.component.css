@@ -1,0 +1,11 @@
+.simuladorForm {
+    margin-top: 80px;
+}
+
+.resultado-rendimento {
+    font-size: large;
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: -30px;
+    color: hsl(240, 0%, 10%);
+}
